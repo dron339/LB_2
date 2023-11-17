@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class MatrixOperations {
 
-    // Константи для діапазону рандомних чисел
+    
     private static final int RANDOM_MIN = 1;
     private static final int RANDOM_MAX = 100;
 
